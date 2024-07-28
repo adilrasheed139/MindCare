@@ -29,6 +29,6 @@ MindCare is not just an assessment tool; it’s a gateway to better mental healt
 
 ---
 ### Collaborators:
-- Haroon Anwar
-- Maria Mahmood
-- Aisha Jalil
+- [Haroon Anwar](https://github.com/Haroon527)
+- [Maria Mahmood](https://github.com/MariaMahmood18)
+- [Aisha Jalil](https://github.com)

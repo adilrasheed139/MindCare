@@ -28,3 +28,7 @@
 MindCare is not just an assessment tool; it’s a gateway to better mental health for individuals and their loved ones. Join us in promoting mental well-being with personalized care and support.
 
 ---
+### Collaborators:
+- Haroon Anwar
+- Maria Mahmood
+- Aisha Jalil
